@@ -1,2 +1,2 @@
 Git Tutorial
-Rita Lio
+Rita Li
